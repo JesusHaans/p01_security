@@ -1,0 +1,136 @@
+======================= INICIANDO WHOIS =======================
+
+Domain Name:       gob.mx
+
+Created On:        1991-02-28
+Expiration Date:   2024-02-27
+Last Updated On:   2023-04-15
+Registrar:         Registry .MX
+URL:               http://www.registry.mx
+
+Registrant:
+   Name:           Network Information Center, S.A. de C.V.
+   City:           Monterrey
+   State:          Nuevo Leon
+   Country:        Mexico
+
+Administrative Contact:
+   Name:           Network Information Center, S.A. de C.V.
+   City:           Monterrey
+   State:          Nuevo Leon
+   Country:        Mexico
+
+Technical Contact:
+   Name:           Network Information Center, S.A. de C.V.
+   City:           Monterrey
+   State:          Nuevo Leon
+   Country:        Mexico
+
+Billing Contact:
+   Name:           Network Information Center, S.A. de C.V.
+   City:           Monterrey
+   State:          Nuevo Leon
+   Country:        Mexico
+
+Name Servers:
+   DNS:            m.mx-ns.mx       200.94.176.1
+   DNS:            e.mx-ns.mx       189.201.244.1
+   DNS:            x.mx-ns.mx       201.131.252.1
+   DNS:            i.mx-ns.mx       207.248.68.1
+   DNS:            c.mx-ns.mx       192.100.224.1, 2001:1258:0:0:0:0:0:1
+   DNS:            o.mx-ns.mx       200.23.1.1
+
+DNSSEC DS Records:
+
+
+% NOTICE: The expiration date displayed in this record is the date the
+% registrar's sponsorship of the domain name registration in the registry is
+% currently set to expire. This date does not necessarily reflect the
+% expiration date of the domain name registrant's agreement with the sponsoring
+% registrar. Users may consult the sponsoring registrar's Whois database to
+% view the registrar's reported date of expiration for this registration.
+
+% The requested information ("Information") is provided only for the delegation
+% of domain names and the operation of the DNS administered by NIC Mexico.
+
+% It is absolutely prohibited to use the Information for other purposes, 
+% including sending not requested emails for advertising or promoting products
+% and services purposes (SPAM) without the authorization of the owners of the
+% Information and NIC Mexico.
+
+% The database generated from the delegation system is protected by the
+% intellectual property laws and all international treaties on the matter.
+
+% If you need more information on the records displayed here, please contact us
+% by email at ayuda@nic.mx .
+
+% If you want notify the receipt of SPAM or unauthorized access, please send a
+% email to abuse@nic.mx .
+
+% NOTA: La fecha de expiracion mostrada en esta consulta es la fecha que el
+% registrar tiene contratada para el nombre de dominio en el registry. Esta
+% fecha no necesariamente refleja la fecha de expiracion del nombre de dominio
+% que el registrante tiene contratada con el registrar. Puede consultar la base
+% de datos de Whois del registrar para ver la fecha de expiracion reportada por
+% el registrar para este nombre de dominio.
+
+% La informacion que ha solicitado se provee exclusivamente para fines
+% relacionados con la delegacion de nombres de dominio y la operacion del DNS
+% administrado por NIC Mexico.
+
+% Queda absolutamente prohibido su uso para otros propositos, incluyendo el
+% envio de Correos Electronicos no solicitados con fines publicitarios o de
+% promocion de productos y servicios (SPAM) sin mediar la autorizacion de los
+% afectados y de NIC Mexico.
+
+% La base de datos generada a partir del sistema de delegacion, esta protegida
+% por las leyes de Propiedad Intelectual y todos los tratados internacionales
+% sobre la materia.
+
+% Si necesita mayor informacion sobre los registros aqui mostrados, favor de
+% comunicarse a ayuda@nic.mx.
+
+% Si desea notificar sobre correo no solicitado o accesos no autorizados, favor
+% de enviar su mensaje a abuse@nic.mx.
+
+======================= INICIANDO PING =======================
+======================= INICIANDO TRACEROUTE =======================
+======================= INICIANDO NSLOOKUP =======================
+;; Connection to 4.4.4.4#53(4.4.4.4) for gob.mx failed: timed out.
+;; Connection to 4.4.4.4#53(4.4.4.4) for gob.mx failed: timed out.
+;; Connection to 4.4.4.4#53(4.4.4.4) for gob.mx failed: timed out.
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+gob.mx
+	origin = m.mx-ns.mx
+	mail addr = hostmaster.nic.mx
+	serial = 1709323023
+	refresh = 900
+	retry = 900
+	expire = 604800
+	minimum = 1800
+gob.mx	nameserver = o.mx-ns.mx.
+gob.mx	nameserver = e.mx-ns.mx.
+gob.mx	nameserver = c.mx-ns.mx.
+gob.mx	nameserver = i.mx-ns.mx.
+gob.mx	nameserver = m.mx-ns.mx.
+gob.mx	nameserver = x.mx-ns.mx.
+gob.mx	rdata_48 = 256 3 8 AwEAAbENnfEEsT74ji1jXTOCV1qcOe/pgwOey4bWhbJBEzFpEf5hI0IT UP0D1eZfEdfklfAqI31TT3jI/sqWZRJpNjMRGtQIp+nM3UFaZOvgH/du 1yLCROcsjuE1HsT4xKs7RCwK4zhyKd0kMVxiOWH3DZZtHTzK5buq32bk uiB56bm/
+gob.mx	rdata_48 = 256 3 8 AwEAAfJpvjJnLicBFTz50lhnK23LIBjs5n+gEcyYNk3CC+WlCAaQCaTn QED4LzMiM4ZO8CuoS/uId1AfmHJC5RlzZ3/KMLKzFxaBfivjE6c3I6mP w7+u3JjZQT7O/ztlgVYbiewY+zQxVYkDCZIuY0RF/p0JhgnmRuYk4wKk UEJK4P8t
+gob.mx	rdata_48 = 257 3 8 AwEAAd2iTTor3oC4rkw5cRhVk8F/fW/+gkNoyBGVLwoRTLaraWoWhUas QWK2PXAxaKqgBDGHX5bsSfDG2o+ELbh8rVQupfKiA1tPq+Ob4O/l3R44 dk5VW8HfpiTc1bMypT07mKx5cHDeIKgiys2isGifZTDSjF6Ejzfd5LZ1 nYExysR7PIg9PAjknl0aK8RgCAu5KUOR8moKl6tz+uJgKImroPQWG1qp uCyuGk12yXEd5LvlumPtbvgm1pbuVpEdguK4NfPyJDDA8IBg011GfDHS qGxSlUq/BpBiqPRCVY2XRzgx/TqAvEg9SH/j74k9KyrBFLxbUSwCwOQU OtWVV56DSr0=
+gob.mx	rdata_48 = 257 3 8 AwEAAefmaeVLdxaiPzY9RO1m/TL1oH3Ka38QJ7+LIONZtUZM2MmZucdv 43mQ/Nn/s3bHAVGtcJiBe9oNkwZ/FMOKVPSY5/Js8Tn3UsGTVETAauHc JA9W1yfkKgLgxzojEtk5FK/3DPKUXGp+uGLCI3FNJ6gpaK38g9+cO64v 1cgpAn1TWPf3qwDRWC4SVNeQaWeCFit15Et3NG+YTda+ReqEDFnr+FAv ferUocwF9EdOg7kNERQEMo9yvRh3I81HCZe7ayXoLT60lVsGA+3Sxyk6 7nRs7KaGTTItaWfwbC25hCujURCMn8ZrUVVEIjtiTgjxCS9Ney0BkcEf hO/rEggtW1s=
+gob.mx	rdata_51 = 1 0 10 7CCD75C8AF1B575B
+gob.mx	rdata_46 = DNSKEY 8 2 86400 20240330000000 20240229000000 10189 gob.mx. uBBvSZEowm7cbPRPEn5T8Pwug8TUpcEMZPr/qCTQ5Ijzj8x9R8T61BUA t7LuEU8lK1bkuFr8Vyv0FfUdMeK0AkE6MbyuH7sOw1hv6ohJmGZoAwlW PzFDKnR/wrPbWnwXm7o+zz/sxVNPiF892lLRl/ICwA0f1SsXFrp3vHdO Gjw=
+gob.mx	rdata_46 = DNSKEY 8 2 86400 20240428140000 20240228150000 5714 gob.mx. Jm4CLVPw2FLh64OYn1ewWe+CCWlg43d9Z50bKLckROr0BH9WM55OhtNy ezyrXIlYa7njS1GL+MlMOKf6LsiIVfQQFt3VJYyGltx9jl+siz78SbAo 69GFryo54eoUry4lHLisbiiI0waFla7Oi+S4AnmF1U0btEr31hRn3crQ 3g0iDCpsrvGC9CFR+ZJLJ3+ziUF9CxnFZXbyGdwmLf9/ojvSbpWQKxDL 9cSaBuwXPsg50C+ro98dM8CcXx4eRDPhR4TGRZE2Ms6o9tVntwoXrvp6 DCDcAyOnigiaODuwl3ATI5g45Z5Xp71IuZp8Uvh3WLdBAD0ktPV7Oh8o PLDKFQ==
+gob.mx	rdata_46 = DNSKEY 8 2 86400 20240428140000 20240228150000 62752 gob.mx. Bkk3yZlZgIjoUUFNXimDF9mii5fVqppCwxv8tdV0QQtanL4hcfMKg/fJ gzHvcPPt60q/TZMQLSTUv23Cn9UAQc8r6Mcl4+NsYJIYncZvFOHjHAVx t6BiapfOMkF7AqYtgKYe6CJvGzxd035qJIHD9XhY9V3lneL36SaPdV3I xEk/avBi0khcy1IILFVovKI8phzPNSfMA7jjPHHJcpZjTiNP2wvLLXrz Yqg5ZBtnB75Dc17GpqwMisUbLtS6/o/Lj+gHYoIY+SLDV+9rCaBYL1HH 37uIz5tZp6+fkMOf7PlAF3+JwB58RmsrVUHcHPMKhXXz4svZN3bmt5/M eIZ7UQ==
+gob.mx	rdata_46 = NSEC3PARAM 8 2 86400 20240330000000 20240229000000 10189 gob.mx. W+EDovZu2OtIm84LMgxqaEAR8Jn3c00YIPciswJdFBPyl5JNAcyu4EKO OsksXRyfWILfw69tiBUQYsHB+OS+ZrXChFsTbYM5QtgFnO9XNIuQbtkg 5dCrs5EtC37Ib+tnkM9Klyaw/YZ2xunew9A/rPI7btidpbOclJ1UQy8I ChU=
+gob.mx	rdata_46 = NS 8 2 86400 20240330000000 20240229000000 10189 gob.mx. Jx/wD0nWAcribryFZ1vUtneKExVhPVrsIsP5QDT6M6ldHU/c8vAqrlGd Nz5LrGPV0T0dd+WTW0h1JE1wf7ZVmZ3BXJLoUE2tIEGjLeVp84UNtc8Q HlDl3UpvsVNUt3zwTLPmsEjaCDgxwW+a3GKNEvtyoq2llYYd9aHA+TiV jYk=
+gob.mx	rdata_46 = SOA 8 2 86400 20240331000000 20240301000000 10189 gob.mx. jOqGfKUMej29+RdcNVzXS0LlYrbcXxYm/z4fLANuiu9xe1afxTWo4lt6 aaAFAlKw4AH2Au5iMvwKj+4Vr1aNSkF7lq4YQxRT8CFMhwJEeplqpGZ3 Vr+UyFOyZmvkCJpGPxh6m6nH4AT2qt3QB/gQhyjWYU41Mbii+ESAK/Uw SK8=
+
+Authoritative answers can be found from:
+
+======================= INICIANDO NMAP =======================
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2024-03-01 16:47 CST
+Nmap done: 0 IP addresses (0 hosts up) scanned in 5.13 seconds
