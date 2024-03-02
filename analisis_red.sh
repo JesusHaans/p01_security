@@ -23,7 +23,7 @@ domain_analysis() {
     # Escanear puertos con Nmap
     echo "Escaneando puertos del dominio:"
     echo ======================= INICIANDO NMAP ======================= >> $domain\_analysis.txt
-    nmap -Pn $domain >> $domain\_analysis.txt
+    nmap -sV $domain >> $domain\_analysis.txt
 }
 
 
